@@ -6,8 +6,8 @@
 
 div.container {
    border: 5px solid #bc1212;
-   width: 80%;
-   margin: 0 auto; 
+   width: 70%;
+   margin: 50px auto; 
 }
 
 header {
@@ -63,6 +63,7 @@ li {
    line-height: 3em;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    font-variant: small-caps;
+   font-weight: bold;
 }
 
 a {
@@ -74,4 +75,8 @@ a {
 
 footer {
    border: 5px solid cornflowerblue
+}
+
+h2 {
+   font-style: italic;
 }
